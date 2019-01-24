@@ -1,0 +1,1 @@
+SELECT * FROM student WHERE hometown ILIKE $1 AND name ILIKE $2
