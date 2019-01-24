@@ -1,0 +1,2 @@
+CREATE TABLE IF NOT EXISTS student (name text, hometown text);
+insert into student (name, hometown) values ('Field', 'Sada'), ('Dulcine', 'Alor Setar'),('Genevra', 'Drummondville'), ('Valera', 'Corpus Christi'), ('Findlay', 'Tangier'), ('Kristina', 'Kangar'), ('Juliet', 'Kraaifontein'), ('Christie', 'Prosperidad'), ('Tasia', 'Al Maşdūr'), ('Ileane', 'Kalangsari');
